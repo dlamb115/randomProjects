@@ -1,8 +1,9 @@
-# 7/20/2017 so i attended a 6 hour General Assembly class in Boston 
-#  and this is all they taught us to make. We didn't even cover python until
+# 7/20/2017 Denise Lamb
+# so i attended a 6 hour General Assembly class in Boston 
+# and this is all they taught us to make. We didn't even cover python until
 # after lunch. Argh! #wantToLearnMore!!
 
-# this script runs a game of high/low using python interpreter 3.x
+# this script runs a game of high/low using python interpreter 3.x 
 
 # getting the random module
 import random 
